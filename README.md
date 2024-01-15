@@ -13,4 +13,4 @@ The second window gives the information. On the left amount of larvae which is p
 
 The information window on the right side has also a button, which allows the user to remove the Ant from the simulation.
 
-[//]: # (![plot]&#40;img/application.png&#41;)
+![plot](img/application.png)
